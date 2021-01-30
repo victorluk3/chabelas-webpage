@@ -1,0 +1,46 @@
+{
+    "platillos": [
+    {
+        "name": "Arrachera",
+        "description": "Acompañada de 2 quesadillas, cebolla al grill, guacamole y gallina pinta.",
+        "image": "menu/arrachera.jpg",
+        "price": "$180"
+    },
+    {
+        "name": "Burritos",
+        "description": "De tortilla de harina o maiz recien hecha, rellenos con el guiso de tu elección(Nopales, Machaca c/papa, Frijol c/queso, Bistec c/papa, Chicharron, Cochinita).",
+        "image": "menu/burritos.jpg",
+        "price": "$15"
+    },
+    {
+        "name": "Big Burro",
+        "description": "Burrito de harina gigante relleno de carne de res a la plancha, papas fritas, cebolla caramelizada, frijol, queso chihuahua, aguacate, lechuga, tomate.",
+        "image": "menu/big-burro.jpg",
+        "price": "$80"
+    },
+    {
+        "name": "Gallina pinta",
+        "description": "Tradicional pozole de frijol, hecho en harina, guisado con manteca de cochi, acompañado con asadera fresca y 3 tortillas artesanales.",
+        "image": "menu/gallina.jpg",
+        "price": "$55"
+    },
+    {
+        "name": "Sincronizada",
+        "description": "Sincronizada de cochinita / Ensalada / Frijoles",
+        "image": "menu/sincronizada.jpg",
+        "price": "$34"
+    },
+    {
+        "name": "Caldillo de machaca",
+        "description": "Delicioso caldo de machaca, guisado a la mexicana y huevo cocinado en el mismo caldo",
+        "image": "menu/sincronizada.jpg",
+        "price": "$75"
+    },
+    {
+        "name": "Machaca a la mexicana",
+        "description": "Acompañada de frijol, asadera fresca y 3 tortillas artesanales",
+        "image": "menu/machaca.jpg",
+        "price": "$75"
+    }
+]
+}
